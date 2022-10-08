@@ -10,7 +10,7 @@ public class Kripto {
             System.out.println("====================");
             System.out.println("Transposition chiper");
             System.out.println("====================");
-            System.out.println("1. Enkripsi ");
+            System.out.println("2. Enkripsi ");
             System.out.println("2. Deskripsi ");
 
             int masukan = in.nextInt();
